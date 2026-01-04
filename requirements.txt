@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+tqdm
+imutils
+tensorflow
+keras
+opencv-python
+Pillow
+scikit-learn
+pickle5
+streamlit
+seaborn
+plotly
+shap
+lime
+streamlit
