@@ -6,7 +6,7 @@ seaborn
 plotly
 tensorflow
 keras
-opencv-python
+opencv-python-headless
 Pillow
 scikit-learn
 imutils
