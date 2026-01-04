@@ -8,7 +8,7 @@ keras
 opencv-python
 Pillow
 scikit-learn
-pickle5
+
 streamlit
 seaborn
 plotly
