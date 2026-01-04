@@ -8,10 +8,8 @@ keras
 opencv-python
 Pillow
 scikit-learn
-
-streamlit
 seaborn
 plotly
 shap
 lime
-streamlit
+streamlit==1.25.0
