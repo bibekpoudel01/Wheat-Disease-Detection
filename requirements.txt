@@ -1,15 +1,26 @@
-numpy
-pandas
-matplotlib
-tqdm
-imutils
+# Core ML & Deep Learning
 tensorflow
 keras
+
+# Data processing
+numpy
+pandas
+scikit-learn
+
+# Image processing
 opencv-python
 Pillow
-scikit-learn
+imutils
+tqdm
+
+# Visualization
+matplotlib
 seaborn
 plotly
-shap
+
+# Streamlit
+streamlit
+
+# Explainability / interpretability
 lime
-streamlit==1.25.0
+shap
