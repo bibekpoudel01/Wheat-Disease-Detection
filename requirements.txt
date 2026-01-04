@@ -1,26 +1,15 @@
-# Core ML & Deep Learning
-tensorflow
-keras
-
-# Data processing
 numpy
 pandas
-scikit-learn
-
-# Image processing
+matplotlib
+tqdm
+imutils
+tensorflow
+keras
 opencv-python
 Pillow
-imutils
-tqdm
-
-# Visualization
-matplotlib
+scikit-learn
+streamlit
 seaborn
 plotly
-
-# Streamlit
-streamlit
-
-# Explainability / interpretability
-lime
 shap
+lime
